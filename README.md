@@ -1,6 +1,6 @@
 # 🔋 BDG2 Energy Consumption Prediction
 
-This project uses the **BDG2 dataset** to model and predict energy consumption across multiple building types. It applies machine learning techniques to forecast usage based on historical data, weather variables, and building characteristics — with the goal of improving energy efficiency and load planning.
+This project uses the **BDG2 dataset** to model and predict energy consumption across multiple building types. It applies machine learning techniques to forecast usage based on historical data, weather variables, and building characteristics with the goal of improving energy efficiency and load planning.
 
 ---
 
